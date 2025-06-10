@@ -18,7 +18,7 @@ Accessible after logging in with admin credentials:
 - Order Management
 - Sales Reports
 
-## 🛠️ Admin Features
+## 🧰 Staff Features
 For employees assisting with operations:
 
 - Assigned Orders
